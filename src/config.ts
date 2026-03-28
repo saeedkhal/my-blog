@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Saeed Khaled",
-	subtitle: "Web Developer · Cairo, Egypt",
+	subtitle: "Front-End Developer · Giza, Egypt",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -60,7 +60,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Saeed Khaled",
-	bio: "SBME (Systems & BioMedical Engineer) and web developer. I build digital interfaces and websites.",
+	bio: "Front-end developer building interactive, accessible web apps — and writing about the craft.",
 	links: [
 		{
 			name: "GitHub",
